@@ -1,5 +1,6 @@
 #opencv-python-headless
 pdf2image
+streamlit
 unstructured[all-docs]
 pillow
 lxml
@@ -7,6 +8,6 @@ chromadb
 tiktoken
 langchain
 langchain-community
-langchain_google_genai
+langchain-google-genai
 langchain-groq
-python_dotenv
+python-dotenv
